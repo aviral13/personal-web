@@ -1,0 +1,124 @@
+body{
+
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+h1{
+  margin:50px auto 0 auto;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.625rem;
+  color:#00BCD4;
+
+
+
+}
+h2{
+  font-family: 'Rowdies', cursive;
+  font-size: 2.5rem;
+  color:#00BCD4;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Rowdies', cursive;
+  color: #11999E;
+}
+
+p{
+  margin-top:0;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+a{
+  color: #11999E;
+}
+hr{
+  border-color: #EAF6F6;
+  border-style: dotted none none ;
+  border-width: 10px;
+  width: 10%;
+}
+.top-con{
+  background-color:#B2EBF2;
+  padding-top: 100px;
+
+  position: relative;
+
+}
+
+
+.bottom-container{
+  background-color: #00BCD4;
+  padding: 20px;
+  line-height: 2;
+
+}
+.footer-link{
+  position: relative;
+  top: 20px;
+  text-decoration: none;
+
+  font-size: 1.5rem;
+  margin-right: 50px;
+
+
+}
+.bottom{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 120px auto;
+  line-height: 2;
+  text-align: left;
+
+
+
+
+}
+.java{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin: 0;
+
+
+}
+.copyright{
+  color: white;
+  font-size: 1.5rem;
+  position: relative;
+  right:30px;
+  top: 30px;
+}
+.contact-me{
+  padding: 40px;
+  font-size: 1.5rem;
+  line-height: 2;
+  position: relative;
+  bottom: 30px;
+
+}
+.get-in{
+  margin-top: 0;
+}
+.profile{
+  padding: 50px;
+}
+.profile-pic{
+  width: 15%;
+}
